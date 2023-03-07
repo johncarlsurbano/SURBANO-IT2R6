@@ -1,0 +1,62 @@
+header{
+    border: 1px solid black;  
+    height: 200px;
+    margin-bottom: 2px;
+    background-color: aqua;
+}
+body{
+    font-family: Calibre, sans-serif;
+    color: black;
+}
+nav{
+    height: 50px;
+    border: 1px solid black; 
+    margin-bottom: 2px;
+    background-color: aquamarine;
+
+}
+nav ul{
+    text-align: center;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+    padding:0px 30px;
+}
+nav li a{
+    color: black;
+    text-decoration-line: none;
+    padding: 10px;
+}
+nav li a:hover {
+    background-color: tomato;
+}
+section{
+    border: 1px solid black;
+    height: 609px;
+    margin-bottom: 2px;
+    background-color: bisque;
+}
+section:hover{
+    background-color: white;
+}
+footer{
+    border: 1px solid black; 
+    background-color: tomato;
+}
+h1{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+    
+}
+p{
+    text-align: justify;
+    padding: 0px 400px;
+}
